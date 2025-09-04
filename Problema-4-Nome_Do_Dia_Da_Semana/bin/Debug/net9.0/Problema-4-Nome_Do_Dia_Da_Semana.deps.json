@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Problema-4-Nome_Do_Dia_Da_Semana/1.0.0": {
+        "runtime": {
+          "Problema-4-Nome_Do_Dia_Da_Semana.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema-4-Nome_Do_Dia_Da_Semana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
