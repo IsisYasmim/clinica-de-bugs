@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d6b77008f4c52bbfa786f786764fb01599fa96e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fc18158ab312338502026309e946cf38148624a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

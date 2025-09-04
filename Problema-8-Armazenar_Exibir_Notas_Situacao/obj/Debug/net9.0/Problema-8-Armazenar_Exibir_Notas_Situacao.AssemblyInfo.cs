@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Problema-8-Armazenar_Exibir_Notas_Situacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d546e6e52ca8631f585a98c58102d26d6e3a9b18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fc18158ab312338502026309e946cf38148624a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Problema-8-Armazenar_Exibir_Notas_Situacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Problema-8-Armazenar_Exibir_Notas_Situacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

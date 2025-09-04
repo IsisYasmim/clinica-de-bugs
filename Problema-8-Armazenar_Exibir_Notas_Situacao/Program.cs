@@ -15,5 +15,5 @@ for (int i = 0; i < notas.Length; i++) // O loop deve iterar até o tamanho do a
 for (int i = 0; i < notas.Length; i++)
 {
     string situacao = notas[i] >= 7 ? "Aprovado": "Reprovado"; // Corrigido o operador ternário para refletir a lógica correta.
-    Console.WriteLine($"Nota (i + 1): {notas[i]} - {situacao}");
+    Console.WriteLine($"Nota {i + 1}: {notas[i]} - {situacao}");
 }
