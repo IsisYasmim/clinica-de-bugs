@@ -4,4 +4,4 @@ Este trabalho consiste em corrigir 10 códigos em c# visando aprendizagem etrans
 
 Nestetrabalho deve conter um Checklist de entrega contendo: ficha de erros; tabela(s) de testes; registro de uso de I.A; resumo de aprendizagem; código final corrigido.
 
-O trabalho deverá ser entregue e apresentado em sala de aula.x
+O trabalho deverá ser entregue e apresentado em sala de aula.
