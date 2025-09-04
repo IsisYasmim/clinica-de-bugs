@@ -1,0 +1,15 @@
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\obj\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\obj\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.AssemblyInfoInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\obj\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.AssemblyInfo.cs
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\obj\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.csproj.CoreCompileInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\obj\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.sourcelink.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\bin\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.exe
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\bin\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.deps.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\bin\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.runtimeconfig.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\bin\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\bin\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\obj\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\obj\Debug\net9.0\refint\Problema-8-Armazenar_Exibir_Notas_Situacao.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\obj\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\obj\Debug\net9.0\Problema-8-Armazenar_Exibir_Notas_Situacao.genruntimeconfig.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-8-Armazenar_Exibir_Notas_Situacao\obj\Debug\net9.0\ref\Problema-8-Armazenar_Exibir_Notas_Situacao.dll
