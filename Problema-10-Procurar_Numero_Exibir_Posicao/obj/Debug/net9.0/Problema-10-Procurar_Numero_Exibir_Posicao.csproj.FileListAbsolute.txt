@@ -1,0 +1,15 @@
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\obj\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\obj\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.AssemblyInfoInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\obj\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.AssemblyInfo.cs
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\obj\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.csproj.CoreCompileInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\obj\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.sourcelink.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\bin\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.exe
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\bin\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.deps.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\bin\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.runtimeconfig.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\bin\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\bin\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\obj\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\obj\Debug\net9.0\refint\Problema-10-Procurar_Numero_Exibir_Posicao.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\obj\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\obj\Debug\net9.0\Problema-10-Procurar_Numero_Exibir_Posicao.genruntimeconfig.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-10-Procurar_Numero_Exibir_Posicao\obj\Debug\net9.0\ref\Problema-10-Procurar_Numero_Exibir_Posicao.dll
