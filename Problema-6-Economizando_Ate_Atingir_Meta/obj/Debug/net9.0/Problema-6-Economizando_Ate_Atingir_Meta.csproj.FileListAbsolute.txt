@@ -1,0 +1,14 @@
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\obj\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\obj\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.AssemblyInfoInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\obj\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.AssemblyInfo.cs
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\obj\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.csproj.CoreCompileInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\bin\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.exe
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\bin\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.deps.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\bin\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.runtimeconfig.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\bin\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\bin\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\obj\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\obj\Debug\net9.0\refint\Problema-6-Economizando_Ate_Atingir_Meta.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\obj\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\obj\Debug\net9.0\Problema-6-Economizando_Ate_Atingir_Meta.genruntimeconfig.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-6-Economizando_Ate_Atingir_Meta\obj\Debug\net9.0\ref\Problema-6-Economizando_Ate_Atingir_Meta.dll
