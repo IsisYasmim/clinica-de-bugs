@@ -1,0 +1,15 @@
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\bin\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.exe
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\bin\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.deps.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\bin\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.runtimeconfig.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\bin\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\bin\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\obj\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\obj\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.AssemblyInfoInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\obj\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.AssemblyInfo.cs
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\obj\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.csproj.CoreCompileInputs.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\obj\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.sourcelink.json
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\obj\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\obj\Debug\net9.0\refint\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.dll
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\obj\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.pdb
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\obj\Debug\net9.0\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.genruntimeconfig.cache
+C:\Users\Isis\Documents\Faculdade\orientacaobj\clinica-de-bugs\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta\obj\Debug\net9.0\ref\Problema-9-Matriz_3_3_Diagonais_Maiores_Transposta.dll
