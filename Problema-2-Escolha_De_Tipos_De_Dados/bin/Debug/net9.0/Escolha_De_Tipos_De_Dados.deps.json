@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Escolha_De_Tipos_De_Dados/1.0.0": {
+        "runtime": {
+          "Escolha_De_Tipos_De_Dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Escolha_De_Tipos_De_Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
